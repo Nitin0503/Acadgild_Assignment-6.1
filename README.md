@@ -10,3 +10,4 @@ using a graph.
 c. Impute the missing values in Age variable using Mice library,
 create two different graphs showing Age distribution before
 and after imputation
+Answer: Shown as R Script
